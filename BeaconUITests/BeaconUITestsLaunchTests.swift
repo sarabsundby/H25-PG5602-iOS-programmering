@@ -2,7 +2,6 @@
 //  BeaconUITestsLaunchTests.swift
 //  BeaconUITests
 //
-//  Created by Sara Bakken Sundby on 13/11/2025.
 //
 
 import XCTest
